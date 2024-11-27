@@ -15,3 +15,5 @@ Added Aiml lab7 (Prediction of Breast Cancer using Support Vector Machine Model)
 Added Aiml lab8 through collab...[https://github.com/NavAneEth777/AIML-2025/blob/main/Lab08_AIML.ipynb](https://github.com/NavAneEth777/AIML-2025/blob/main/Lab08_AIML.ipynb)
 
 Added Aiml lab9 through collab...[https://github.com/NavAneEth777/AIML-2025/blob/main/Lab09-RF.ipynb](https://github.com/NavAneEth777/AIML-2025/blob/main/Lab09-RF.ipynb)
+
+Added Aiml lab9 through collab...[https://github.com/NavAneEth777/AIML-2025/blob/main/Lab10-KMeans.ipynb](https://github.com/NavAneEth777/AIML-2025/blob/main/Lab10-KMeans.ipynb)
